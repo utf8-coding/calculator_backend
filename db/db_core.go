@@ -13,7 +13,7 @@ var (
 )
 
 const (
-	defaultRedisAdd  = "www.sunsnasserver.top:6379"
+	defaultRedisAdd  = "<server address>:6379"
 	defaultRedisPswd = "hidden"
 	defaultRedisDB   = 0
 )
